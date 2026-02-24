@@ -1,5 +1,14 @@
-<h1>🦆 Age of Duck Mod</h1>
+<h1>🦆 Age of Duck Mod (Fork)</h1>
 <h3>Welcome to Age of Duck Mod - ELO & Helper Overlay for Age of Empires 2 DE 🎉</h3>
+
+<blockquote>
+<h3>🍴 About This Fork</h3>
+<p>
+This fork adds a <strong>Best Unit Combos</strong> feature — a matchup advisor that analyzes the civilizations in your current match and recommends the best unit compositions to build against your opponents. No more guessing what to make; get real-time unit combo suggestions based on civ strengths, weaknesses, and available unit trees.
+</p>
+</blockquote>
+
+<hr>
 
 <!-- Banner -->
 <p>
